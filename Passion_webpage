@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supercars</title>
+    <style>
+        header{
+            text-align: center;
+            color: white;
+            background-color:rgb(77, 73, 73);
+            padding: 10px 0;
+            width: 100%;
+        }
+        body{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            background-color: whitesmoke;
+            margin: 0;
+            padding: 0;
+        }
+         img{
+            width: 100%;
+            margin: 5px;
+            border-radius: 10px;
+        }
+        h2{
+            padding: 20px;
+        }
+        p{
+            padding: 20px;
+            font-size: large;
+        }
+        
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Passion: Supercars</h1>
+    </header>
+    <h2>Introuction:</h2>
+    <p>I have always been passionate about supercars. The combination of speed, design, and engineering excellence fascinates me. From Ferrari to Lamborghini, supercars represent the pinnacle of automotive innovation and luxury.</p>
+    <p>Supercars are not just vehicles; they are works of art that push the boundaries of what is possible in terms of performance and aesthetics.</p>
+    <h2>History</h2>
+    <p>The Lamborghini Miura, produced from 1966 to 1973, is often said to be the first supercar. By the 1970s and 1980s the term was in regular use, if not precisely defined. One interpretation up until the 1990s was to use it for mid-engine two-seat cars with at least eight cylinders (but typically a V12 engine), a power output of at least 400 bhp (298 kW) and a top speed of at least 180 mph (290 km/h).</p>
+    <p>During the early 1990s, Japan began to gain global recognition for making high-performance sports cars, but the automotive media first recognized the Honda NSX produced from 1990 to 2005 as Japan's first supercar, with its lightweight mid-engined, rear-wheel-drive, V6 layout. The NSX was praised for being more reliable and user-friendly than contemporary European supercars.</p>
+    <h2>Gallery</h2>
+    <img src="image1.jpeg" alt="Ferrari LaFerrai"><br>
+    <p><b>Ferrari LaFerrai -</b> A hybrid hypercar with a V12 engine combined with electric power, producing over 950 horsepower.</p>
+    <img src="image2.jpeg" alt="Lamborghini Aventador">
+    <p><b>Lamborghini Aventador -</b> Known for its aggressive styling and a powerful V12 engine, delivering over 700 horsepower.</p>
+    <img src="image3.jpeg" alt="Bugatti Chiron">
+    <p><b>Bugatti Chiron -</b> One of the fastest production cars in the world, with a top speed exceeding 260 mph and a quad-turbocharged W16 engine.</p>
+    <img src="image4.jpeg" alt="McLaren P1">
+    <p><b>McLaren P1 -</b> Another hybrid supercar that combines a twin-turbo V8 with electric motors, resulting in around 903 horsepower.</p>
+    <img src="image5.jpeg" alt="Porsche 911 GT3 RS">
+    <p><b>Porsche 911 GT3 RS -</b> A track-focused version of the iconic 911, known for its precision handling and naturally aspirated engine.
+    </p>
+</body>
+</html>
