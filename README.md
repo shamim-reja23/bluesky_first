@@ -1,4 +1,3 @@
 # blusky_first
-This is my first git repository
-<br>
-Author- Shamim Reja
+There are some mini project of webpage related
+
