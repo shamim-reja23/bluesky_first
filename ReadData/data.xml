@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <name>Shahid Ansari</name>
+        <department>CEO</department>
+        <salary>150000</salary>
+    </employee>
+    <employee>
+        <name>Touhid Hasan</name>
+        <department>Sales</department>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <name>Shamim Reja</name>
+        <department>Finance</department>
+        <salary>60000</salary>
+    </employee>
+    <employee>
+        <name>Arsul Jawed</name>
+        <department>IT</department>
+        <salary>80000</salary>
+    </employee>
+</employees>
